@@ -1,0 +1,236 @@
+---
+title: "Brynjólfur Gauti Guðrúnar Jónsson's resume"
+author: Brynjólfur Gauti Guðrúnar Jónsson
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: False
+    css:
+        - override.css
+        - resume
+# uncomment this line to produce HTML and PDF in RStudio:
+# knit: pagedown::chrome_print
+---
+
+
+
+Aside
+================================================================================
+
+
+![Brynjólfur Gauti Guðrúnar Jónsson](https://english.hi.is/sites/default/files/bryndjo/Science/kri_brynjolfur_gauti_201001_002.jpg){width=100%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> bgautijonsson@gmail.com
+- <i class="fa fa-github"></i> [github.com/bgautijonsson](https://github.com/bgautijonsson)
+- <i class="fa fa-twitter"></i> [twitter.com/bgautijonsson](https://twitter.com/bgautijonsson)
+- <i class="fa fa-phone"></i> +354 8240872
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in data analysis and statistical learning models
+
+- Full experience with hierarchical Bayesian modelling.
+
+- Highly skilled in R, STAN, Python and LaTeX
+
+- Fully fluent in English and Norwegian
+
+- Experienced public speaker
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+<font size="+1"> Brynjólfur Gauti Guðrúnar Jónsson </font> {#title} 
+--------------------------------------------------------------------------------
+
+### PhD Student of Statistics at the University of Iceland
+
+I am currently working on my PhD in statistics from the University of Iceland. I have experience in organizing my own research, coordinating with the work of other team members and applying a wide range of statistical models to real data scenarios.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Iceland
+
+M.S. in Statistics
+
+Reykjavík, Iceland
+
+2020
+
+Thesis: [Continuous Categories and Age-Specific Mortality Rates: An application of Gaussian process priors to the Lee-Carter model](https://skemman.is/handle/1946/37139)
+
+### University of Iceland
+
+B.S. in Psychology
+
+Reykjavík, Iceland
+
+2018
+
+Thesis: [Up high, down low, too slow: Effects of nature on directed attention differ between high and low spatial frequencies.](https://skemman.is/handle/1946/30572) Results were presented at the Biomedical and Health Sciences Conference at the University of Iceland.
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### PhD Student of Statistics
+
+University of Iceland
+
+Reykjavík, Iceland
+
+2022 - present
+
+- Researching improved 21st century projections of sub-daily extreme precipitation and how hierarchical Bayesian spatio-temporal models can be applied to bias-correct simulations from convection-permitting climate models using observed meteorological data.
+
+### Statistician
+
+The Icelandic Heart Association
+
+Reykjavík, Iceland
+
+2018 - present
+
+- High-dimensional statistical modeling of the effects of serum levels of proteins on heart failure and other outcomes.
+
+### Statistician
+
+Directorate of Health
+
+Reykjavík, Iceland
+
+2020 - 2020
+
+- Designed and implemented a Bayesian hierarchical generalized logistic growth model for short-term predictions of diagnosed cases at the start of the COVID19 pandemic.
+
+### Graduate Research Assistant
+
+The Science Institute, University of Iceland
+
+Reykjavík, Iceland
+
+2019
+
+- Performed preliminary research related to my MSc thesis and presented results at the 2019 Nordic Demographic Symposium in Reykjavík
+
+
+
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Statistician
+
+The Icelandic Heart Association
+
+Reykjavík, Iceland
+
+2018 - present
+
+::: concise
+- High-dimensional statistical modeling of the effects of serum levels of proteins on heart failure and other outcomes.
+- Diverse data analysis projects to help with publications
+- Writing software that helps coworkers with their reasearch
+:::
+
+### Statistical Consultant
+
+The Statistical Consulting Center, School of Health Sciences, University of Iceland
+
+Reykjavík, Iceland
+
+2018 - 2021
+
+::: concise
+- Assisted graduate students and academic researchers with data analysis and statistical testing
+- Wrote methods chapters for research articles
+- Did power calculations and helped plan methodology before data was gathered
+
+:::
+
+### Statistician
+
+Directorate of Health
+
+Reykjavík, Iceland
+
+2020 - 2020
+
+::: concise
+- Designed and implemented a Bayesian hierarchical generalized logistic growth model for short-term predictions of diagnosed cases at the start of the COVID19 pandemic.
+- High speed data analysis used to gather actionable intelligence presented via interpretable graphics, tables and text
+- [Designed and developed a detailed dashboard](http://covid.rhi.hi.is/shiny/dashboard/)
+
+:::
+
+### Researcher
+
+Icelandic Center for Research - RANNÍS
+
+Reykjavík, Iceland
+
+2018 - 2018
+
+::: concise
+- Designed and planned a research project and applied for funding
+- Developed personalized risk calculator to predict patients' risk of 30-day readmittance to psychiatric wards
+- One of five projects nominated for the President's Innovation Award
+- Results were presented at the Biomedical and Health Sciences Conference at the University of Iceland.
+:::
+
+
+
+
+
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Statistical Consulting
+
+Teacher
+
+University of Iceland, Reykjavík, Iceland
+
+2020 - present
+
+### R Programming
+
+Teacher
+
+University of Iceland, Reykjavík, Iceland
+
+2019 - 2020
+
+
+### Survival Analysis
+
+Teaching assistant
+
+University of Iceland, Reykjavík, Iceland
+
+2019 - 2020
+
+

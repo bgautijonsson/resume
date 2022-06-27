@@ -1,0 +1,18 @@
+* {
+  /* Override default margins*/
+  --pagedjs-margin-right: 0.1in;
+  --pagedjs-margin-left: 0.1in;
+  --pagedjs-margin-top: 1in;
+  --pagedjs-margin-bottom: 0.2in;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+
+:root{
+  --sidebar-width: 13rem; /* side bar width */
+  --sidebar-background-color: #c6dbef;
+
+}
