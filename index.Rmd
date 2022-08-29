@@ -25,10 +25,10 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> bgautijonsson@gmail.com
-- <i class="fa fa-home"></i> [bgautijonsson.github.io](bgautijonsson.github.io){target="_blank"}
+- <i class="fa fa-envelope"></i> brynjolfur@hi.is
+- <i class="fa fa-home"></i> [bggj.is](https://bggj.is){target="_blank"}
 - <i class="fa fa-github"></i> [github.com/bgautijonsson](https://github.com/bgautijonsson){target="_blank"}
-- <i class="fa fa-twitter"></i> [twitter.com/bgautijonsson](https://twitter.com/bgautijonsson){target="_blank"}
+- <i class="fa fa-twitter"></i> [twitter.com/bgautijonsson](https://twitter.com/bggjonsson){target="_blank"}
 - <i class="fa fa-phone"></i> +354 8240872
 
 
