@@ -26,9 +26,8 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> brynjolfur@hi.is
-- <i class="fa fa-home"></i> [bggj.is](https://bggj.is){target="_blank"}
+- <i class="fa fa-home"></i> [bggj.is](https://bggj.is){target="_blank"} | [metill.is](https://metill.is){target="_blank"}
 - <i class="fa fa-github"></i> [github.com/bgautijonsson](https://github.com/bgautijonsson){target="_blank"}
-- <i class="fa fa-twitter"></i> [twitter.com/bgautijonsson](https://twitter.com/bggjonsson){target="_blank"}
 - <i class="fa fa-phone"></i> +354 8240872
 
 
@@ -49,7 +48,6 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -63,11 +61,21 @@ Main
 
 ### PhD Student of Statistics at the University of Iceland
 
-I am currently working on my PhD in statistics from the University of Iceland. I have experience in organizing my own research, coordinating with the work of other team members and applying a wide range of statistical models to real data scenarios.
+I am a PhD student of statistics at the University of Iceland, researching spatially distributed extreme rainfall and methods for modeling data-level dependence using copulas. Prior to this, I have worked extensively with Bayesian hierarchical models, having applied them to forecasting parliamentary elections and age-dependent mortality as well as the modeling of COVID-19 disease spread in Iceland during the pandemic. I also manage [metill.is](https://metill.is), an Icelandic website where I use official data to inform the discourse on current matters. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### University of Iceland
+
+PhD in Statistics
+
+Reykjavík, Iceland
+
+2027 (est)
+
+Subject: Improved 21st century projections of sub-daily extreme precipitation by spatio-temporal recalibration
 
 ### University of Iceland
 
@@ -90,8 +98,28 @@ Reykjavík, Iceland
 Thesis: [Up high, down low, too slow: Effects of nature on directed attention differ between high and low spatial frequencies.](https://skemman.is/handle/1946/30572) Results were presented at the Biomedical and Health Sciences Conference at the University of Iceland.
 
 
-Research Experience {data-icon=laptop}
+Academic Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
+
+### StanCon 2024
+
+Oxford University
+
+Oxford, England
+
+2024
+
+- I presented my research and talked about modeling with copulas in Stan [Presentation slides](https://bggj.is/stancon24/presentation){target="_blank"}
+
+### Royal Statistical Society 2024 International Conference
+
+Doubletree Brighton Metropole
+
+Brighton, England
+
+2024
+
+- I gave a talk on my PhD research into developing Gaussian copulas for large spatial fields. [Presentation slides](https://bggj.is/rss24/presentation){target="_blank"}
 
 ### PhD Student of Statistics
 
@@ -109,7 +137,7 @@ The Icelandic Heart Association
 
 Reykjavík, Iceland
 
-2018 - present
+2018 - 2022
 
 - High-dimensional statistical modeling of the effects of serum levels of proteins on heart failure and other outcomes.
 
@@ -140,13 +168,26 @@ Reykjavík, Iceland
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Data Scientist
+
+Lucinity
+
+Reykjavík, Iceland
+
+2023 - 2024
+
+::: concise
+- Exploring the use of privacy-enhancing technologies, machine learning and network analysis for detecting money laundering activities
+- Graph neural networks, federated learning, simulating structured large-scale graph data
+:::
+
 ### Statistician
 
 The Icelandic Heart Association
 
 Reykjavík, Iceland
 
-2018 - present
+2018 - 2022
 
 ::: concise
 - High-dimensional statistical modeling of the effects of serum levels of proteins on heart failure and other outcomes.
@@ -217,13 +258,21 @@ University of Iceland, Reykjavík, Iceland
 
 2020 - present
 
+### Applied Data Analysis
+
+Teacher
+
+University of Iceland, Reykjavík, Iceland
+
+2020 - present
+
 ### R Programming
 
 Teacher
 
 University of Iceland, Reykjavík, Iceland
 
-2019 - 2020
+2019 - present
 
 
 ### Survival Analysis
